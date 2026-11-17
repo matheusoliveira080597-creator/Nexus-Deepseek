@@ -1,0 +1,2 @@
+# Nexus-Deepseek
+protótipo Nexus
